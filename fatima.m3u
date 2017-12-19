@@ -1,17 +1,3 @@
 #EXTM3U
 #EXTINF:0,Santuario Fatima
 http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
-#EXTINF:0,PT: RTP 2
-http://abczu.xyz:25461/live/kelvin1/kelvin1/6500.ts
-#EXTINF:0,PT: RTP 3
-http://abczu.xyz:25461/live/kelvin1/kelvin1/6499.ts
-#EXTINF:0,PT: RTP Acores
-http://abczu.xyz:25461/live/kelvin1/kelvin1/6495.ts
-#EXTINF:0,PT: RTP Africa
-http://abczu.xyz:25461/live/kelvin1/kelvin1/6494.ts
-#EXTINF:0,PT: RTP Madeira
-http://abczu.xyz:25461/live/kelvin1/kelvin1/6497.ts
-#EXTINF:0,PT: RTP Memoria
-http://abczu.xyz:25461/live/kelvin1/kelvin1/6496.ts
-#EXTINF:0,PT: Sic
-http://abczu.xyz:25461/live/kelvin1/kelvin1/6438.ts
